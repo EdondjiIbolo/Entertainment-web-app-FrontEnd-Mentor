@@ -1,8 +1,8 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Entertainment web app
+This multi-page entertainment web app will have you working with JSON data, routing, state management, and search functionality.
 
-Currently, two official plugins are available:
+TODO: BOOKMARK LIST MOVIES
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Demo : https://66c5ab5d9bc5290a0a190012--zippy-gumdrop-cdfb74.netlify.app/
